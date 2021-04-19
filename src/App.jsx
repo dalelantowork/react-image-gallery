@@ -17,7 +17,7 @@ const App = () => {
                 <Toolbar>
                     <PhotoCamera className={classes.icon}/>
                     <Typography variant="h6">
-                        Photo Album
+                        Image Gallery
                     </Typography>
                 </Toolbar>
             </AppBar>
@@ -25,10 +25,10 @@ const App = () => {
                 <div className={classes.container}>
                     <Container maxWidth="sm">
                         <Typography variant="h2" align="center" color="textPrimary" gutterBottom>
-                            Photo Album
+                            Image Gallery
                         </Typography>
                         <Typography variant="h5" align="center" color="textSecondary" paragraph>
-                            Hello everyone This is a photo album and I'm trying to make this sentenct as long as possible so we can see how does it look like on the screen.
+                            Hello everyone This is an image gallery and I'm trying to make this sentenct as long as possible so we can see how does it look like on the screen.
                         </Typography>
                         <div className={classes.buttons}>
                             <Grid container spacing={2} justify="center" >
