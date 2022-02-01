@@ -1,5 +1,6 @@
 # Image Gallery Project 
 Created using React JS and Material-UI (https://v4.mui.com/)
+Applies Light mode and Dark mode
 
 ## Getting Started with Create React App
 
